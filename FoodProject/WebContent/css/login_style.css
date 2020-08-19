@@ -1,0 +1,70 @@
+bg{
+    
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+body{
+    background: url(../image/bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+.container{
+    z-index: 10;
+    opacity: 1;
+    font-size: 25px;
+    font-weight: bold;
+}
+.page-header{
+    text-align: center;
+}
+.page-header a {
+    color: white;
+}
+
+.col-md-5{
+    display: block;
+    margin-left: 350px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+#button01{
+    background-color: grey;
+    border-right:none;
+border-left:none;
+border-top:none;
+border-bottom:none;
+}
+#button01:hover{
+    background-color: black;
+    
+}
+#button01 a {
+    color: white;
+}
+.home-button > a {
+    text-decoration: none;
+}
+.join-button > a{
+    text-decoration: none;
+}
+.log_a{
+ text-decoration: none;
+}
+#join01{
+background-color: #87ac50;
+border-right:none;
+border-left:none;
+border-top:none;
+border-bottom:none;
+}
+#join01:hover{
+    background-color: green;
+}

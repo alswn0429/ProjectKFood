@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="FoodProject" path="/" reloadable="true">
+	<Resource name="jdbc/pool" auth="Container"
+		type="javax.sql.DataSource" driverClassName="oracle.jdbc.OracleDriver"
+		url="jdbc:oracle:thin:@Localhost:1521:orcl" username="scott"
+		password="tiger" maxActive="5" maxIdle="5" maxWait="-1" />
+</Context>
