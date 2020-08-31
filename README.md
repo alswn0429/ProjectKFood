@@ -5,4 +5,6 @@
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+[youtube link](https://www.youtube.com/watch?v=eeKXQdcBqVE)
+
 ##### 사진 올리고 유튜브로 연결하기
